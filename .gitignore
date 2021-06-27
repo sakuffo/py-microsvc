@@ -3,3 +3,6 @@
 __pycache__
 __pycache__/*
 .dbdata
+localhost.session.sql
+prep/
+scratch
